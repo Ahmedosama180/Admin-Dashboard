@@ -1,0 +1,15 @@
+G:\full stack\algendy\C#-Core\Demo.BL\bin\Debug\net5.0\Demo.BL.deps.json
+G:\full stack\algendy\C#-Core\Demo.BL\bin\Debug\net5.0\Demo.BL.dll
+G:\full stack\algendy\C#-Core\Demo.BL\bin\Debug\net5.0\ref\Demo.BL.dll
+G:\full stack\algendy\C#-Core\Demo.BL\bin\Debug\net5.0\Demo.BL.pdb
+G:\full stack\algendy\C#-Core\Demo.BL\bin\Debug\net5.0\Demo.DAL.dll
+G:\full stack\algendy\C#-Core\Demo.BL\bin\Debug\net5.0\Demo.DAL.pdb
+G:\full stack\algendy\C#-Core\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.AssemblyReference.cache
+G:\full stack\algendy\C#-Core\Demo.BL\obj\Debug\net5.0\Demo.BL.GeneratedMSBuildEditorConfig.editorconfig
+G:\full stack\algendy\C#-Core\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfoInputs.cache
+G:\full stack\algendy\C#-Core\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfo.cs
+G:\full stack\algendy\C#-Core\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CoreCompileInputs.cache
+G:\full stack\algendy\C#-Core\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CopyComplete
+G:\full stack\algendy\C#-Core\Demo.BL\obj\Debug\net5.0\Demo.BL.dll
+G:\full stack\algendy\C#-Core\Demo.BL\obj\Debug\net5.0\ref\Demo.BL.dll
+G:\full stack\algendy\C#-Core\Demo.BL\obj\Debug\net5.0\Demo.BL.pdb

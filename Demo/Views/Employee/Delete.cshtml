@@ -1,0 +1,68 @@
+﻿@model Demo.BL.Models.EmployeeVM
+@{
+    ViewData["Title"] = "Delete";
+}
+
+@section BootstrapSelect{
+    <link href="~/plugins/bootstrap-select/css/bootstrap-select.css" rel="stylesheet" />
+}
+
+<div class="block-header">
+    <h2>Delete</h2>
+</div>
+
+
+<form class="form-group" asp-controller="Employee" asp-action="Delete">
+
+    @*<div asp-validation-summary="All" class="text-danger"></div>*@
+
+    <label asp-for="Name">Employee Name</label>
+    <input class="form-control" type="text" asp-for="Name" readonly />
+    <br />
+
+    <label asp-for="Salary">Salary</label>
+    <input class="form-control" type="text" asp-for="Salary" readonly />
+    <br />
+
+    <label asp-for="Email">Email</label>
+    <input class="form-control" type="text" asp-for="Email" readonly />
+    <br />
+
+    <label asp-for="Adress">Adress</label>
+    <input class="form-control" type="text" asp-for="Adress" readonly />
+    <br />
+
+    <label asp-for="HireDate">Hire Date</label>
+    <input class="form-control" type="date" asp-for="HireDate" readonly />
+    <br />
+
+    <div class="demo-checkbox">
+        <input type="checkbox" asp-for="IsActive" checked="" readonly>
+        <label asp-for="IsActive">Is Active</label>
+        <span asp-validation-for="IsActive" class="text-danger"></span>
+    </div>
+    <br />
+
+    <select asp-for="DepartmentId" asp-items="(SelectList)ViewBag.DepartmentList" readonly>
+        <option>Choose Department</option>
+    </select>
+
+    <input type="hidden" asp-for="Id" />
+    <input type="hidden" asp-for="PhotoName" />
+    <input type="hidden" asp-for="CvName" />
+
+    <center>
+        <a asp-controller="Employee" asp-action="Index" class="btn btn-primary">Back To Data</a>
+        <a asp-controller="Employee" asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-success">Edit</a>
+        <input type="submit" value="Delete" class="btn btn-danger" />
+        <input type="reset" value="Cancle" class="btn btn-warning" />
+    </center>
+
+</form>
+
+
+@section MicrosoftValidation {
+
+    <script src="~/plugins/jquery-validation/jquery.validate.js"></script>
+    <script src="~/plugins/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

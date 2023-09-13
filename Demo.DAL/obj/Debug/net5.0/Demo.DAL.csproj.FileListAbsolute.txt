@@ -1,0 +1,15 @@
+G:\full stack\algendy\C#-Core\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+G:\full stack\algendy\C#-Core\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+G:\full stack\algendy\C#-Core\Demo.DAL\bin\Debug\net5.0\ref\Demo.DAL.dll
+G:\full stack\algendy\C#-Core\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+G:\full stack\algendy\C#-Core\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+G:\full stack\algendy\C#-Core\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\full stack\algendy\C#-Core\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+G:\full stack\algendy\C#-Core\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+G:\full stack\algendy\C#-Core\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+G:\full stack\algendy\C#-Core\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+G:\full stack\algendy\C#-Core\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+G:\full stack\algendy\C#-Core\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+G:\full stack\algendy\C#-Core\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+G:\full stack\algendy\C#-Core\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+G:\full stack\algendy\C#-Core\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
